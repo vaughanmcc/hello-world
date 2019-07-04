@@ -1,2 +1,6 @@
 # hello-world
-Just another repo
+
+Hi Lazybones!
+
+Gandalf the old here, trying to re-invent myself.
+I love quinoa!!!!
